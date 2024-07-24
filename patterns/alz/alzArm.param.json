@@ -988,6 +988,78 @@
         },
         "activityKVDeleteAlertState": {
           "value": "true"
+        },
+        "ManagedHSMRequestAlertSeverity": {
+          "value": "2"
+        },
+        "ManagedHSMRequestWindowSize": {
+          "value": "PT5M"
+        },
+        "ManagedHSMRequestEvaluationFrequency": {
+          "value": "PT5M"
+        },
+        "ManagedHSMRequestPolicyEffect": {
+          "value": "disabled"
+        },
+        "ManagedHSMRequestAlertState": {
+          "value": "true"
+        },
+        "ManagedHSMAvailabilityAlertSeverity": {
+          "value": "1"
+        },
+        "ManagedHSMAvailabilityWindowSize": {
+          "value": "PT1M"
+        },
+        "ManagedHSMAvailabilityEvaluationFrequency": {
+          "value": "PT1M"
+        },
+        "ManagedHSMAvailabilityPolicyEffect": {
+          "value": "disabled"
+        },
+        "ManagedHSMAvailabilityAlertState": {
+          "value": "true"
+        },
+        "ManagedHSMAvailabilityThreshold": {
+          "value": "20"
+        },
+        "ManagedHSMLatencyAvailabilityAlertSeverity": {
+          "value": "3"
+        },
+        "ManagedHSMLatencyAvailabilityWindowSize": {
+          "value": "PT5M"
+        },
+        "ManagedHSMLatencyAvailabilityEvaluationFrequency": {
+          "value": "PT5M"
+        },
+        "ManagedHSMLatencyAvailabilityPolicyEffect": {
+          "value": "disabled"
+        },
+        "ManagedHSMLatencyAvailabilityAlertState": {
+          "value": "true"
+        },
+        "ManagedHSMLatencyAvailabilityThreshold": {
+          "value": "1000"
+        },
+        "ManagedHSMCapacityAlertSeverity": {
+          "value": "1"
+        },
+        "ManagedHSMCapacityWindowSize": {
+          "value": "PT5M"
+        },
+        "ManagedHSMCapacityEvaluationFrequency": {
+          "value": "PT1M"
+        },
+        "ManagedHSMCapacityPolicyEffect": {
+          "value": "disabled"
+        },
+        "ManagedHSMCapacityAlertState": {
+          "value": "true"
+        },
+        "ManagedHSMCapacityThreshold": {
+          "value": "75"
+        },
+        "activityManagedHSMDeleteAlertState": {
+          "value": "true"
         }
       }
     },
@@ -1063,6 +1135,78 @@
           "value": "75"
         },
         "activityKVDeleteAlertState": {
+          "value": "true"
+        },
+        "ManagedHSMRequestAlertSeverity": {
+          "value": "2"
+        },
+        "ManagedHSMRequestWindowSize": {
+          "value": "PT5M"
+        },
+        "ManagedHSMRequestEvaluationFrequency": {
+          "value": "PT5M"
+        },
+        "ManagedHSMRequestPolicyEffect": {
+          "value": "disabled"
+        },
+        "ManagedHSMRequestAlertState": {
+          "value": "true"
+        },
+        "ManagedHSMAvailabilityAlertSeverity": {
+          "value": "1"
+        },
+        "ManagedHSMAvailabilityWindowSize": {
+          "value": "PT1M"
+        },
+        "ManagedHSMAvailabilityEvaluationFrequency": {
+          "value": "PT1M"
+        },
+        "ManagedHSMAvailabilityPolicyEffect": {
+          "value": "disabled"
+        },
+        "ManagedHSMAvailabilityAlertState": {
+          "value": "true"
+        },
+        "ManagedHSMAvailabilityThreshold": {
+          "value": "20"
+        },
+        "ManagedHSMLatencyAvailabilityAlertSeverity": {
+          "value": "3"
+        },
+        "ManagedHSMLatencyAvailabilityWindowSize": {
+          "value": "PT5M"
+        },
+        "ManagedHSMLatencyAvailabilityEvaluationFrequency": {
+          "value": "PT5M"
+        },
+        "ManagedHSMLatencyAvailabilityPolicyEffect": {
+          "value": "disabled"
+        },
+        "ManagedHSMLatencyAvailabilityAlertState": {
+          "value": "true"
+        },
+        "ManagedHSMLatencyAvailabilityThreshold": {
+          "value": "1000"
+        },
+        "ManagedHSMCapacityAlertSeverity": {
+          "value": "1"
+        },
+        "ManagedHSMCapacityWindowSize": {
+          "value": "PT5M"
+        },
+        "ManagedHSMCapacityEvaluationFrequency": {
+          "value": "PT1M"
+        },
+        "ManagedHSMCapacityPolicyEffect": {
+          "value": "disabled"
+        },
+        "ManagedHSMCapacityAlertState": {
+          "value": "true"
+        },
+        "ManagedHSMCapacityThreshold": {
+          "value": "75"
+        },
+        "activityManagedHSMDeleteAlertState": {
           "value": "true"
         },
         "StorageAccountAvailabilityAlertSeverity": {

@@ -151,6 +151,10 @@ var loadPolicyDefinitions = {
     loadTextContent('../../../services/KeyVault/vaults/Deploy-KV-Requests-Alert.json')
     loadTextContent('../../../services/KeyVault/vaults/Deploy-ActivityLog-KeyVault-Del.json')
 
+    loadTextContent('../../../services/KeyVault/managedHSMs/Deploy-HSM-Availability-Alert.json')
+    loadTextContent('../../../services/KeyVault/managedHSMs/Deploy-HSM-Latency-Alert.json')
+    loadTextContent('../../../services/KeyVault/managedHSMs/Deploy-ActivityLog-HSM-Del.json')
+
     // Used in both LandingZone and Connectivity policy definitions
     loadTextContent('../../../services/Network/loadBalancers/Deploy-LB-DatapathAvailability-Alert.json')
     loadTextContent('../../../services/Network/loadBalancers/Deploy-LB-GlobalBackendAvailability-Alert.json')
