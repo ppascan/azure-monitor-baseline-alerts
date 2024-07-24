@@ -70,7 +70,7 @@
         "allOf": [
           {
             "field": "type",
-            "equals": "microsoft.keyvault/managedhsm"
+            "equals": "microsoft.keyvault/managedHSMs"
           },
           {
             "field": "[[concat('tags[', parameters('MonitorDisable'), ']')]",
@@ -120,7 +120,7 @@
                           },
                           {
                             "field": "microsoft.insights/activityLogAlerts/condition.allOf[*].equals",
-                              "equals": "Microsoft.KeyVault/ManagedHSM/delete"
+                              "equals": "Microsoft.KeyVault/ManagedHSMs/delete"
                           }
                         ]
                       }
@@ -206,7 +206,7 @@
                                   },
                                   {
                                     "field": "operationName",
-                                      "equals": "Microsoft.KeyVault/ManagedHSM/delete"
+                                      "equals": "Microsoft.KeyVault/managedHSMs/delete"
                                   },
                                   {
                                     "field": "status",

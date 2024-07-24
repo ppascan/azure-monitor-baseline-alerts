@@ -123,7 +123,7 @@
         "allOf": [
           {
             "field": "type",
-              "equals": "microsoft.keyvault/ManagedHSM"
+              "equals": "microsoft.keyvault/managedHSMs"
           },
           {
             "field": "[[concat('tags[', parameters('MonitorDisable'), ']')]",
@@ -249,7 +249,7 @@
                         "allOf": [
                           {
                             "name": "Availability",
-                            "metricNamespace": "microsoft.keyvault/managedHSM",
+                            "metricNamespace": "microsoft.keyvault/managedHSMs",
                             "metricName": "Availability",
                             "operator": "LessThan",
                             "threshold": "[[parameters('threshold')]",
