@@ -8,8 +8,8 @@
     "displayName": "Deploy Activity Log Managed HSM Delete Alert",
     "description": "Policy to Deploy Activity Log Managed HSM Delete Alert",
     "metadata": {
-      "version": "1.0.1",
-      "category": "Managed HSM",
+      "version": "1.0.0",
+      "category": "Key Vault",
       "source": "https://github.com/Azure/azure-monitor-baseline-alerts/",
       "alzCloudEnvironments": [
         "AzureCloud"
